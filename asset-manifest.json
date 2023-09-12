@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Choose-Color-App/static/css/main.073c9b0a.css",
-    "main.js": "/Choose-Color-App/static/js/main.1ef1d4c3.js",
-    "static/js/787.05b7a068.chunk.js": "/Choose-Color-App/static/js/787.05b7a068.chunk.js",
-    "static/media/logo.svg": "/Choose-Color-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Choose-Color-App/static/css/main.804c4ce2.css",
+    "main.js": "/Choose-Color-App/static/js/main.0164ea60.js",
     "index.html": "/Choose-Color-App/index.html",
-    "main.073c9b0a.css.map": "/Choose-Color-App/static/css/main.073c9b0a.css.map",
-    "main.1ef1d4c3.js.map": "/Choose-Color-App/static/js/main.1ef1d4c3.js.map",
-    "787.05b7a068.chunk.js.map": "/Choose-Color-App/static/js/787.05b7a068.chunk.js.map"
+    "main.804c4ce2.css.map": "/Choose-Color-App/static/css/main.804c4ce2.css.map",
+    "main.0164ea60.js.map": "/Choose-Color-App/static/js/main.0164ea60.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1ef1d4c3.js"
+    "static/css/main.804c4ce2.css",
+    "static/js/main.0164ea60.js"
   ]
 }
